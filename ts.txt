@@ -1,2 +1,5 @@
 let a=1;
+
 let ddd=333;
+ let b=2;
+let c=3;
